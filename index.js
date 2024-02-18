@@ -1,7 +1,7 @@
 /*  Name: Sai Chand Akkisani
     Student ID: C0882376
     Date: 10-Aug-2023
-    Front End 2 Assignment 10 */
+    Front End 2 Assignment 100 */
 
 
 let paintBrush = document.querySelector('#main');
